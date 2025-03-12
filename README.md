@@ -22,6 +22,8 @@ Telegram bot to automate and manage channels.
 3. After deploying is complete, tap on "Manage App"
 4. Check the logs to see if your bot is ready!
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=ruby&repository=Deshamoolam%2FCinemabasar&branch=New-features&privileged=true&instance_type=free&instances_min=0&env%5BADMINS%5D=1739381637&env%5BAPI_HASH%5D=510c3009ea589830a89e045bf8aae656&env%5BAPI_ID%5D=28643132&env%5BAUTH_CHANNEL%5D=-1001686248359&env%5BBOT_TOKEN%5D=6047811504%3AAAHxVHsbOM5pmIRHA7jmif-M0A08_smFrNo&env%5BCHANNELS%5D=-1001554078987+-1001614813746&env%5BCOLLECTION_NAME%5D=Cinemabasar&env%5BDATABASE_NAME%5D=hil&env%5BDATABASE_URI%5D=mongodb%2Bsrv%3A%2F%2FAk%3Ahil%40cluster0.e47vcbl.mongodb.net%2F%3FretryWrites%3Dtrue%26w%3Dmajority&env%5BDELETE_CHANNELS%5D=-1001587592541&env%5BLOG_CHANNEL%5D=-1001520240117&env%5BPORT%5D=8000&env%5BREQST_CHANNEL_ID%5D=-1001732179897&env%5BSUPPORT_CHAT_ID%5D=-1001756463929&env%5BUSE_CAPTION_FILTER%5D=True) 
+
 
 #### Mandatory Vars
 
